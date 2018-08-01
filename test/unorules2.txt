@@ -1,0 +1,34 @@
+	UNO IN DETAIL   
+        Each player is dealt 7 cards. The first player has to match the card in the DISCARD pile either by number, color or word.   
+        If the player doesn't have anything to match, he must pick a card from the DRAW pile.   
+        If he can play what is drawn, great. Otherwise, play moves to the next person.  
+        When you have one card left, you must yell 'UNO' (meaning one). Failure to do this results in you having to pick two cards from the DRAW pile.  
+        Once a player has no cards left, the hand is over.   
+        STARTING THE DISCARD PILE    
+        Well, if a word card is the first one turned up from the DRAW pile, this is what happens.  
+        Wild Draw Four - It's put back in the deck and another one is chosen.  
+        Wild Card - The player to the left of dealer calls out a color - then plays.  
+        Draw Two Card - The player to the left of dealer must pick two cards and then the next player goes (sad, but true).  
+        Reverse Card - The dealer plays first, but then goes to the right instead of left.  
+        Skip Card - The player to left of dealer doesn't start (get it, he's skipped). The player to left of him starts.  
+        WHAT WORD CARDS MEAN   
+        Draw Two Cards - When this card is played, the next person to play must draw 2 cardsand forfeit his turn.
+        Reverse Card - Simply reverse direction of play. Play left becomes play right, and vice versa.
+        Skip Card - The next player to play loses his turn and is 'skipped.' Mighty clever.
+        Wild Card- This card can be played on anycard.
+                   The person playing the card calls any color to continue play, including the one presently being played if desired. 
+                   A Wild card can be played even if the player has another playable card in his hand.
+        Wild Draw Four Card - This is the best, the meanest, the most sneaky card to have. 
+                              Not only does the player get to call the next color played, but the next player has to pick 4 cards and forfeit his turn. 
+                             There is a hitch, however (of course) you can only play this card when you don't have a card in your hand that matches the color previously played.
+        GOING OUT 
+        A player who forgets to say UNO before his card touches the DISCARD pile,has to draw two cards
+        SCORING
+        When a player is out of cards, he gets points for cards left in opponent's hands as follows
+        All cards through 9 Face value
+        Draw2 2O points
+        Reverse 20 points
+        Skip 20 points
+        Wild 50 points
+        Wild Draw 4 50 points
+         SO PLAY HARD !!

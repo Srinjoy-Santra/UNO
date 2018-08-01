@@ -1,0 +1,24 @@
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|***********************                                                                                           |
+|****    ***********                                                                                               |
+|****    ********                                   WELCOME   TO                                                   |
+|*************                                                                                                     |
+|*********                          UNO      UNO     UNO    UNO      NOUNOUNOUN                                    |
+|******                             UNO      UNO     OUNO   UNO     UNOUNOUNOUNO                                   |                                            |
+|****                               UNO      UNO     NOUNO  UNO     UNOU    OUNO                                   |
+|**                                 UNO      UNO     UNOUNO UNO     UNO      UNO                                   |
+|*                                  UNOU    OUNO     UNO  UNOUN     UNOU    OUNO                                  *|
+|                                   UNOUNOUNOUNO     UNO   UNOU     UNOUNOUNOUNO                               ****| 
+|                                    NOUNOUNOUN      UNO    UNO      NOUNOUNOUN                             *******| 
+|                                                                                                         *********|
+|                                                                                                     *************|                     
+|                                                                                                 ******** (VERSION|
+|                                                                                            **************99.9.99)|
+|                                                                                       ***************************|
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+
+
+Enter 1 for new game
+Enter 2 for rules/help
+Enter 3 for exit
+Enter your choice :   
